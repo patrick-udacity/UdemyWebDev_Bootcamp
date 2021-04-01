@@ -1,0 +1,27 @@
+/* Class Selectors */
+.goSnack {
+  background-color: green;
+}
+
+.noSnack {
+  background-color: yellow;
+}
+
+/* ID Selectors */
+#gotMilk {
+  background-color: pink;
+}
+
+/* Tag Selectors */
+h1 {
+  color: brown;
+  font-size: 100px;
+}
+
+img {
+  background-color: brown;
+}
+
+img:hover{
+  background-color: silver;
+}

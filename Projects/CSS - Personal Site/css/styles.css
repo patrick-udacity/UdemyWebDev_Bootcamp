@@ -1,0 +1,55 @@
+/* Tag elements */
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
+
+h1, p {
+  margin: 0 auto;
+  font-family: 'Gloria Hallelujah', cursive;
+}
+
+/* Class elements */
+.topContainer {
+  background-color: #e4fbff;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middleContainer {
+  background-color: #b8b5ff;
+}
+
+.bottomContainer {
+  background-color: #7868e6;
+}
+
+.cloud-one {
+  position: absolute;
+  top: 50px;
+  right: 300px;
+}
+
+.cloud-two {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.mountain {
+  position: relative;
+  top: 4px;
+}
+
+.CommBadge {
+  width: 300px;
+}
+
+.profilePic{
+  padding-top: 25px;
+}
+
+.dreamGirl{
+  width: 150px;
+}
